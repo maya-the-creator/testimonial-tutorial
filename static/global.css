@@ -3,9 +3,24 @@ body {
   color: #ffffff;
 }
 
+.auth-btn-grp {
+  float: right;
+  padding: 5px;
+}
+
 .carousel .slide {
   font-size: 20px;
   padding: 20px;
+}
+
+.create-testimonial {
+  color: #000000;
+}
+
+.create-form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .rating {
